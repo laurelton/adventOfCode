@@ -1,5 +1,6 @@
 {
   "devDependencies": {
+    "axios": "^1.2.0",
     "dotenv": "^16.0.3"
   }
 }
